@@ -46,7 +46,7 @@ I embed inside enterprise, clinical, and regulatory environments to take agentic
 ### Recognition
 
 - 🏆 APAC Medtronic Technical Contributor of the Year, FY2018
-- 🏆 Global Carrier Edison Award, FY2023
+- 🏆 Edison Award, FY2023
 - 📄 2 filed patents in AI-assisted medical diagnostics (melanoma & psoriasis decision support)
 - 🎓 Global MBA, IIM Kozhikode · M.Tech AI/ML, IIIT
 

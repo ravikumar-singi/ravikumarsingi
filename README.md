@@ -1,6 +1,6 @@
 # Ravikumar Singi
 
-### Director, Forward Deployed AI & Agentic Engineering
+### Leading, Forward Deployed AI & Agentic Engineering
 
 I embed inside enterprise, clinical, and regulatory environments to take agentic AI and GenAI systems from pilot to production. 18+ years across healthcare, biotech, and industrial AI.
 
